@@ -110,5 +110,5 @@ Este projeto está licenciado sob a MIT License.
 
 ### Paulo Kalleby Alves Lacerda
 
-- [LinkedIn](linkedin.com/in/paulokalleby)
+- [LinkedIn](https://linkedin.com/in/paulokalleby)
 - [E-mail](mailto:paulo.devweb@gmail.com)
